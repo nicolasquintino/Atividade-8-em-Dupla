@@ -1,0 +1,40 @@
+header {
+    background-color: gray;
+    text-align: left;
+}
+
+#ov {
+    position: relative;
+    left:40%
+}
+
+#linha {
+    background-color: yellow;
+    background-size: cover;
+}
+
+#botao {
+    display: flex;
+}
+
+#bt2 {
+    position: relative;
+    left:36%;
+    display: flex;
+}
+
+#lista {
+    background-color: rgba(102, 102, 102, 0.226);
+    width: 350px;
+}
+
+#l2{
+    width: 470px;
+}
+
+#c {
+    display: flex;
+    position: relative;
+    left:36%;
+   
+}
